@@ -55,7 +55,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > ./logs/dataset1_UserIdentify2 2>&1 &
+  > ./logs/dataset1_UserIdentify2.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
