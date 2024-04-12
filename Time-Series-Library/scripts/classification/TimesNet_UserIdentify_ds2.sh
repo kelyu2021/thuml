@@ -16,7 +16,7 @@ python -u run.py \
   --itr 1 \
   --learning_rate 0.001 \
   --train_epochs 30 \
-  --patience 10
+  --patience 10ps 
 
 python -u run.py \
   --task_name classification \
