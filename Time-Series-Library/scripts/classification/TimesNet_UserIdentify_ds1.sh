@@ -17,7 +17,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify0.log 2>&1 &
+  > ./logs/dataset1_UserIdentify0.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -36,7 +36,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify1.log 2>&1 &
+  > ./logs/dataset1_UserIdentify1.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -55,7 +55,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify2 2>&1 &
+  > ./logs/dataset1_UserIdentify2 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -74,7 +74,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify3.log 2>&1 &
+  > ./logs/dataset1_UserIdentify3.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -93,7 +93,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify4.log 2>&1 &
+  > ./logs/dataset1_UserIdentify4.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -112,7 +112,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify5.log 2>&1 &
+  > ./logs/dataset1_UserIdentify5.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -131,7 +131,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify6.log 2>&1 &
+  > ./logs/dataset1_UserIdentify6.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -150,7 +150,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify7.log 2>&1 &
+  > ./logs/dataset1_UserIdentify7.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -169,7 +169,7 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify8.log 2>&1 &
+  > ./logs/dataset1_UserIdentify8.log 2>&1 &
 
 nohup python -u run.py \
   --task_name classification \
@@ -188,4 +188,4 @@ nohup python -u run.py \
   --learning_rate 0.001 \
   --train_epochs 30 \
   --patience 10 \
-  > /logs/dataset1_UserIdentify9.log 2>&1 &
+  > ./logs/dataset1_UserIdentify9.log 2>&1 &
