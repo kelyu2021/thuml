@@ -3,7 +3,7 @@ export CUDA_VISIBLE_DEVICES=3
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify0 \
   --model TimesNet \
   --data UEA \
@@ -21,7 +21,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify1 \
   --model TimesNet \
   --data UEA \
@@ -39,7 +39,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify2 \
   --model TimesNet \
   --data UEA \
@@ -57,7 +57,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify3 \
   --model TimesNet \
   --data UEA \
@@ -75,7 +75,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify4 \
   --model TimesNet \
   --data UEA \
@@ -93,7 +93,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify5 \
   --model TimesNet \
   --data UEA \
@@ -111,7 +111,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify6 \
   --model TimesNet \
   --data UEA \
@@ -129,7 +129,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify7 \
   --model TimesNet \
   --data UEA \
@@ -147,7 +147,7 @@ python -u run.py \
 python -u run.py \
   --task_name classification \
   --is_training 1 \
-  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer \
+  --root_path ./dataset/UserBehaviorsInSphericalVideoStreaming/transfer_10_10 \
   --model_id UserIdentify8 \
   --model TimesNet \
   --data UEA \
