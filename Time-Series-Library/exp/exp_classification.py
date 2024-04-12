@@ -100,11 +100,11 @@ class Exp_Classification(Exp_Basic):
             epoch_time = time.time()
 
             for i, (batch_x, label, padding_mask) in enumerate(train_loader):
-                
-                print(f'i: {i}')
-                print(f'batch_x: {batch_x}')
-                print(f'label: {label}')
-                print(f'padding_mask: {padding_mask}')
+                # torch.set_printoptions(linewidth=float('inf'))
+                # print(f'i: {i}')
+                # print(f'batch_x: {batch_x}')
+                # print(f'label: {label}')
+                # print(f'padding_mask: {padding_mask}')
 
                 iter_count += 1
                 model_optim.zero_grad()
