@@ -16,7 +16,7 @@ nohup python -u run.py \
   --itr 1 \
   --learning_rate 0.001 \
   --train_epochs 30 \
-  --patience 10ps \
+  --patience 10 \
   > ./logs/dataset2_UserIdentify0.log 2>&1 &
 
 nohup python -u run.py \
