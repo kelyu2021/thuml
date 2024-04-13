@@ -1,0 +1,99 @@
+i: 0, initiate data start.
+i: 0, initiate data finished.
+train_data.shape: (475271, 6)
+train_labels.shape: (475271,)
+test_data.shape: (53113, 6)
+test_labels.shape: (53113,)
+generate UserIdentify0_TRAIN.ts begin
+generate UserIdentify0_TRAIN.ts finished.
+generate UserIdentify0_TEST.ts begin
+generate UserIdentify0_TEST finished.ts
+i: 1, initiate data start.
+i: 1, initiate data finished.
+train_data.shape: (473715, 6)
+train_labels.shape: (473715,)
+test_data.shape: (54669, 6)
+test_labels.shape: (54669,)
+generate UserIdentify1_TRAIN.ts begin
+generate UserIdentify1_TRAIN.ts finished.
+generate UserIdentify1_TEST.ts begin
+generate UserIdentify1_TEST finished.ts
+i: 2, initiate data start.
+i: 2, initiate data finished.
+train_data.shape: (475533, 6)
+train_labels.shape: (475533,)
+test_data.shape: (52851, 6)
+test_labels.shape: (52851,)
+generate UserIdentify2_TRAIN.ts begin
+generate UserIdentify2_TRAIN.ts finished.
+generate UserIdentify2_TEST.ts begin
+generate UserIdentify2_TEST finished.ts
+i: 3, initiate data start.
+i: 3, initiate data finished.
+train_data.shape: (423893, 6)
+train_labels.shape: (475673,)
+test_data.shape: (52711, 6)
+test_labels.shape: (52711,)
+generate UserIdentify3_TRAIN.ts begin
+generate UserIdentify3_TRAIN.ts finished.
+generate UserIdentify3_TEST.ts begin
+generate UserIdentify3_TEST finished.ts
+i: 4, initiate data start.
+train_data.shape: (476029, 6)
+train_labels.shape: (476029,)
+test_data.shape: (52355, 6)
+test_labels.shape: (52355,)
+generate UserIdentify4_TRAIN.ts begin
+generate UserIdentify4_TRAIN.ts finished.
+generate UserIdentify4_TEST.ts begin
+generate UserIdentify4_TEST finished.ts
+i: 5, initiate data start.
+i: 5, initiate data finished.
+train_data.shape: (475138, 6)
+train_labels.shape: (475138,)
+test_data.shape: (53246, 6)
+test_labels.shape: (53246,)
+generate UserIdentify5_TRAIN.ts begin
+generate UserIdentify5_TRAIN.ts finished.
+generate UserIdentify5_TEST.ts begin
+generate UserIdentify5_TEST finished.ts
+i: 6, initiate data start.
+i: 6, initiate data finished.
+train_data.shape: (475989, 6)
+train_labels.shape: (475989,)
+test_data.shape: (52395, 6)
+test_labels.shape: (52395,)
+generate UserIdentify6_TRAIN.ts begin
+generate UserIdentify6_TRAIN.ts finished.
+generate UserIdentify6_TEST.ts begin
+generate UserIdentify6_TEST finished.ts
+i: 7, initiate data start.
+i: 7, initiate data finished.
+train_data.shape: (475970, 6)
+train_labels.shape: (475970,)
+test_data.shape: (52414, 6)
+test_labels.shape: (52414,)
+generate UserIdentify7_TRAIN.ts begin
+generate UserIdentify7_TRAIN.ts finished.
+generate UserIdentify7_TEST.ts begin
+generate UserIdentify7_TEST finished.ts
+i: 8, initiate data start.
+i: 8, initiate data finished.
+train_data.shape: (475534, 6)
+train_labels.shape: (475534,)
+test_data.shape: (52850, 6)
+test_labels.shape: (52850,)
+generate UserIdentify8_TRAIN.ts begin
+generate UserIdentify8_TRAIN.ts finished.
+generate UserIdentify8_TEST.ts begin
+generate UserIdentify8_TEST finished.ts
+i: 9, initiate data start.
+i: 9, initiate data finished.
+train_data.shape: (476604, 6)
+train_labels.shape: (476604,)
+test_data.shape: (51780, 6)
+test_labels.shape: (51780,)
+generate UserIdentify9_TRAIN.ts begin
+generate UserIdentify9_TRAIN.ts finished.
+generate UserIdentify9_TEST.ts begin
+generate UserIdentify9_TEST finished.ts
